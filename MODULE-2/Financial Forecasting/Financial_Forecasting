@@ -1,0 +1,31 @@
+# Exercise 7: Financial Forecasting
+
+## Objective
+
+The objective of this exercise is to predict the future value of an investment using recursion in Java.
+
+## Description
+
+In financial forecasting, the future value of an investment can be calculated using the present value, growth rate, and number of years. This program implements the forecasting calculation using a recursive approach.
+
+The formula used is:
+
+Future Value = Present Value × (1 + Growth Rate)^Years
+
+The program accepts the present value, growth rate, and number of years as input from the user and recursively calculates the future value.
+
+## Algorithm
+
+1. Read the present value, growth rate, and number of years.
+2. If the number of years is 0, return the present value.
+3. Otherwise, recursively calculate the value for the previous year.
+4. Multiply the result by (1 + growth rate).
+5. Display the future value.
+
+## Output
+
+The program displays the forecasted value of the investment after the specified number of years.
+
+## Conclusion
+
+This exercise demonstrates the use of recursion to solve a financial forecasting problem and helps in understanding recursive function calls and their application in real-world scenarios.
