@@ -1,0 +1,5 @@
+com\microservice\loan\LoanServiceApplication.class
+com\microservice\loan\service\LoanService.class
+com\microservice\loan\repository\LoanRepository.class
+com\microservice\loan\controller\LoanController.class
+com\microservice\loan\entity\Loan.class

@@ -1,0 +1,5 @@
+com\microservice\account\controller\AccountController.class
+com\microservice\account\AccountServiceApplication.class
+com\microservice\account\entity\Account.class
+com\microservice\account\repository\AccountRepository.class
+com\microservice\account\service\AccountService.class
