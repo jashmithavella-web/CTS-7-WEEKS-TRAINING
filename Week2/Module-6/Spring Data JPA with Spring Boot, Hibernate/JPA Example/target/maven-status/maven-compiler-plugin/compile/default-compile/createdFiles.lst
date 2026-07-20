@@ -1,4 +1,0 @@
-com\example\jpaexample\JpaExampleApplication.class
-com\example\jpaexample\repository\UserRepository.class
-com\example\jpaexample\model\User.class
-com\example\jpaexample\runner\DataLoader.class

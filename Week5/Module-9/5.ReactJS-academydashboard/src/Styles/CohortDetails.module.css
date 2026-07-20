@@ -1,0 +1,35 @@
+.box{
+
+    width:300px;
+
+    display:inline-block;
+
+    margin:10px;
+
+    padding:10px 20px;
+
+    border:1px solid black;
+
+    border-radius:10px;
+
+    vertical-align:top;
+
+    background:#f8f8f8;
+
+}
+
+dt{
+
+    font-weight:500;
+
+    margin-top:10px;
+
+}
+
+dd{
+
+    margin-left:0;
+
+    margin-bottom:10px;
+
+}

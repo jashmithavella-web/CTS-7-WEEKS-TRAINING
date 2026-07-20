@@ -1,0 +1,49 @@
+.App{
+
+    text-align:center;
+
+    font-family:Arial;
+
+    margin-top:30px;
+
+}
+
+button{
+
+    padding:10px 20px;
+
+    margin:10px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
+
+input{
+
+    padding:10px;
+
+    width:200px;
+
+    font-size:16px;
+
+}
+
+h1{
+
+    color:darkblue;
+
+}
+
+h2{
+
+    color:green;
+
+}
+
+h3{
+
+    color:brown;
+
+}

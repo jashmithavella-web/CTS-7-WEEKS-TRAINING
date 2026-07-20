@@ -1,0 +1,41 @@
+.App{
+
+    text-align:center;
+
+    font-family:Arial;
+
+}
+
+table{
+
+    border-collapse:collapse;
+
+    margin:auto;
+
+}
+
+th,td{
+
+    padding:10px 20px;
+
+}
+
+h1{
+
+    color:darkblue;
+
+}
+
+h2{
+
+    color:green;
+
+}
+
+ul{
+
+    display:inline-block;
+
+    text-align:left;
+
+}
